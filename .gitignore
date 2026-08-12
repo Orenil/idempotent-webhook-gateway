@@ -1,0 +1,25 @@
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# SQLite runtime files
+*.db
+*.db-wal
+*.db-shm
+/data/
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Coverage
+coverage/
